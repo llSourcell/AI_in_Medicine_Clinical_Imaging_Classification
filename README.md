@@ -1,5 +1,9 @@
 # EyeNet
 
+## Overview
+
+This is the code for [this](https://youtu.be/DCcmFXXAHf4) video on Youtube by Siraj Raval on medical classification. 
+
 ## Detecting Diabetic Retinopathy With Deep Learning
 
 ## Objective
@@ -172,3 +176,7 @@ device. There is no need for an internet connection for the application to work.
 
 ## Tech Stack
 <img align="center" src="images/tech_stack/tech_stack_banner.png" alt="tech_stack_banner"/>
+
+## Credits
+
+The credits for this code go to [gregwchase](https://github.com/gregwchase/dsi-capstone). I've merely created a wrapper to get people started. 
